@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gv16wTtmqV385UMHfQzbZVgR2uYTrisIDRVE1XGtkjqvGbZZL1kNVYt6bC/TAtcU4UzDzNcL3lUGu4IPGT6DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\white\\Documents\\Programming\\C#\\TailWind Traders Example\\mslearn-dotnet-files\\files-module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\white\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

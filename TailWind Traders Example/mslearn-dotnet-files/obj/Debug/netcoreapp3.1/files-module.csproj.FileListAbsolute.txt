@@ -1,0 +1,15 @@
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.exe
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.deps.json
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.runtimeconfig.json
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.runtimeconfig.dev.json
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.dll
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\files-module.pdb
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.csprojAssemblyReference.cache
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.AssemblyInfoInputs.cache
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.AssemblyInfo.cs
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.csproj.CoreCompileInputs.cache
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.dll
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.pdb
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.genruntimeconfig.cache
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\white\Documents\Programming\C#\TailWind Traders Example\mslearn-dotnet-files\obj\Debug\netcoreapp3.1\files-module.csproj.CopyComplete
