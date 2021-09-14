@@ -1,0 +1,13 @@
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.exe
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.deps.json
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.runtimeconfig.json
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.runtimeconfig.dev.json
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.dll
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.pdb
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.csprojAssemblyReference.cache
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.AssemblyInfo.cs
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.dll
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.pdb
+C:\Users\white\Documents\Programming\C#\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.genruntimeconfig.cache
